@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+__pycache__/
+budget.json
+expenses_report.csv
